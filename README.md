@@ -1,11 +1,6 @@
 # react_portfolio
-responsive portfolio using react js and tailwind css
+Responsive portfolio using React js and Tailwind Css
 
-live preview : https://johnalexportfolio.netlify.app/
+live preview : https://ritesh-patil-portfolio.web.app/
 
-1.npm i
-2.npm run dev
-
-mail: codeaprogram@gmail.com
-
-happy coding :)
+Happy coding :)
