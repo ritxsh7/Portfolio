@@ -24,7 +24,7 @@ const Project = () => {
       name: "AquaDrop",
       image: aquadrop,
       github_link: "",
-      live_link: "https://aquadrop-7f434.web.app/",
+      live_link: "https://aquadrop.site",
       isLive: true,
     },
     {
